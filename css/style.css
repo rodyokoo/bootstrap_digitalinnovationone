@@ -1,0 +1,21 @@
+body{
+    font: 20px Arial, sans-serif;
+    color: green;
+}
+
+.navbar{
+    background-color: green;
+}
+
+.quemsomos{
+    background-color: burlywood;
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.parceiros{
+    background-color: darkkhaki;
+}
