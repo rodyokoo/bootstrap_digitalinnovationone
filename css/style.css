@@ -1,21 +1,26 @@
-body{
-    font: 20px Arial, sans-serif;
-    color: green;
+body {
+  font: 20px Arial, sans-serif;
+  color: green;
 }
 
-.navbar{
-    background-color: green;
+footer {
+  background-color: black;
+  color: blanchedalmond;
 }
 
-.quemsomos{
-    background-color: burlywood;
+.navbar {
+  background-color: green;
 }
 
-.margin{
-    padding-top: 10px;
-    padding-bottom: 10px;
+.quemsomos {
+  background-color: burlywood;
 }
 
-.parceiros{
-    background-color: darkkhaki;
+.margin {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.parceiros {
+  background-color: darkkhaki;
 }
